@@ -1,0 +1,21 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<group>
+   <person id="01">
+      <Name>Shawn Michael</Name>
+      <Age>36</Age>
+      <Gender>Male</Gender>
+      <Nationality>Indonesian</Nationality>
+   </person>
+   <person id="02">
+      <Name>Dev Gaba</Name>
+      <Age>24</Age>
+      <Gender>Male</Gender>
+      <Nationality>Indian</Nationality>
+   </person>
+   <person id="03">
+      <Name>Shikha Gulati</Name>
+      <Age>22</Age>
+      <Gender>Female</Gender>
+      <Nationality>Indian</Nationality>
+   </person>
+</group>
